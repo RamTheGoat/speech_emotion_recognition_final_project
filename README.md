@@ -122,10 +122,11 @@ CNN transfer learning significantly improved classification accuracy.
 
 ---
 
-## Authors
+## Contributors
 
-Ram Patel
-Jessie Cai
-Katie Cheng
+- Ram Patel  
+- Jessie Cai 
+- Katie Cheng
+
 University of Georgia  
 Computer Science
